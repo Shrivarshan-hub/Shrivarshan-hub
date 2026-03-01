@@ -1,57 +1,83 @@
 <h1 align="center">Hi 👋, I'm Shri Varshan</h1>
-<h3 align="center">CSE Student | Automation Enthusiast | Tech Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=CSE+Student;Automation+Enthusiast;Software+Developer;Tech+Explorer&center=true&width=500&height=45">
+</p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech Computer Science Engineering Student  
-⚡ Passionate about Automation, Software Development, and Technology  
-💻 Currently building real-world projects and improving my skills  
-🌱 Learning new technologies every day  
-🎯 Goal: Become a skilled Software Developer and Automation Engineer  
+🎓 B.Tech CSE Student (2028)  
+⚡ Focused on Automation and Software Development  
+🛠️ Building real-world tech projects  
+🌱 Constantly learning and improving  
+🎯 Future Software Developer  
 
 ---
 
-## 🛠️ Skills
+## 🧠 Tech Stack
 
-💻 Languages  
-Python | Java | SQL | JavaScript | C  
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-⚙️ Technologies  
-Git | GitHub | Firebase | MySQL  
+### 🌐 Web
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 
-🌐 Web Development  
-HTML | CSS | JavaScript  
-
-🔧 Interests  
-Automation  
-Software Development  
-Problem Solving  
-
----
-
-## 📌 Current Focus
-
-- Building Automation Projects  
-- Improving Programming Skills  
-- Developing Real-World Applications  
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ShriVarshan&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ShriVarshan&show_icons=true&theme=tokyonight">
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShriVarshan&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShriVarshan&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ShriVarshan&theme=tokyonight">
+</p>
+
+---
+
+## 👀 Visitor Counter
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ShriVarshan&color=blue">
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/ShriVarshan/ShriVarshan/output/github-contribution-grid-snake.svg">
+</p>
 
 ---
 
 ## 🌐 Connect with Me
 
-LinkedIn: https://www.linkedin.com/in/shri-varshan-krishnan/
-GitHub: (https://github.com/Shrivarshan-hub)
+LinkedIn  
+https:https://github.com/Shrivarshan-hub
+
+GitHub  
+https:(https://www.linkedin.com/in/shri-varshan-krishnan/)
 
 ---
 
-⭐ From Shri Varshan
+⭐ Building the future, one commit at a time.
