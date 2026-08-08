@@ -73,10 +73,10 @@
 ## 🌐 Connect with Me
 
 LinkedIn  
-https:https://github.com/Shrivarshan-hub
+https: https://www.linkedin.com/in/shri-varshan-krishnan/
 
 GitHub  
-https:(https://www.linkedin.com/in/shri-varshan-krishnan/)
+https:https://github.com/Shrivarshan-hub
 
 ---
 
